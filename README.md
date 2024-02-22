@@ -4,6 +4,10 @@
 1. Linux
     - [ ] Command line
     - [ ] Administration
+    - [ ] Linux services
+        - [ ] ssh
+        - [ ] http
+        - [ ] sql
 2. Networking
     - [ ] ncat
     - [ ] Packet analysis
@@ -26,6 +30,7 @@
     - [ ] Vulnerability scanning
 9. Virtualization
     - [ ] Docker/k8s
+    - [ ] QEMU/libvirt
 10. Misc.
     - [ ] Regexes
     - [ ] Databases (SQL)
